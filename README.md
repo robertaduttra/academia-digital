@@ -10,3 +10,5 @@ Criando um sistema de academia com as tecnologias abaixo:
 - Hibernate Validator
 - Lombok
 - Postman
+
+projeto da DIO.
